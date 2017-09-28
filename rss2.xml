@@ -8,28 +8,8 @@
     <atom:link href="/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>Life is not censored</description>
-    <pubDate>Wed, 13 Sep 2017 13:47:37 GMT</pubDate>
+    <pubDate>Wed, 13 Sep 2017 13:48:47 GMT</pubDate>
     <generator>http://hexo.io/</generator>
-    
-    <item>
-      <title>套路与深情</title>
-      <link>http://yoursite.com/2017/09/13/%E5%A5%97%E8%B7%AF%E4%B8%8E%E6%B7%B1%E6%83%85/</link>
-      <guid>http://yoursite.com/2017/09/13/%E5%A5%97%E8%B7%AF%E4%B8%8E%E6%B7%B1%E6%83%85/</guid>
-      <pubDate>Wed, 13 Sep 2017 08:24:25 GMT</pubDate>
-      <description>
-      
-        
-        
-          &lt;p&gt;喧闹的人群&lt;/p&gt;
-
-        
-      
-      </description>
-      
-      <content:encoded><![CDATA[<p>喧闹的人群</p>]]></content:encoded>
-      
-      <comments>http://yoursite.com/2017/09/13/%E5%A5%97%E8%B7%AF%E4%B8%8E%E6%B7%B1%E6%83%85/#disqus_thread</comments>
-    </item>
     
     <item>
       <title>关于前端你要了解的一些事</title>
